@@ -7,7 +7,8 @@ video {
 }
 
 .hero-container {
-    background: url('https://images.pexels.com/photos/4349772/pexels-photo-4349772.jpeg?cs=srgb&dl=pexels-ketut-subiyanto-4349772.jpg&fm=jpg') center center/cover no-repeat;
+    /* background: url('https://images.pexels.com/photos/4349772/pexels-photo-4349772.jpeg?cs=srgb&dl=pexels-ketut-subiyanto-4349772.jpg&fm=jpg') center center/cover no-repeat; */
+    background: url('https://images.pexels.com/photos/4349965/pexels-photo-4349965.jpeg?cs=srgb&dl=pexels-ketut-subiyanto-4349965.jpg&fm=jpg') center center/cover no-repeat;
     height: 100vh;
     width: 100%;
     display: flex;
@@ -27,14 +28,13 @@ video {
 }
 
 .hero-container > p {
-    margin-top: 25px;
     color: #fff;
     font-size: 32px;
     font-family: 'Roboto';
 }
 
 .hero-btns {
-    margin-top: 32px;
+    margin-top: 10px;
 }
 
 .hero-btns .btn {
