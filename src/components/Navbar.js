@@ -28,7 +28,7 @@ function Navbar() {
     <>
       <nav className="navbar">
         <div className="navbar-container">
-          <Link to="/" className="navbar-logo" onClick={closeMobileMenu} >
+          <Link to="/" className="navbar-logo text-left" onClick={closeMobileMenu} >
             Buddy's Coffee <i class="fa-solid fa-mug-hot"></i>
           </Link>
           <div className="menu-icon" onClick={handleClick}>

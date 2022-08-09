@@ -20,14 +20,14 @@
   
   .navbar-logo {
     color: rgb(0, 0, 0);
-    justify-self: start;
-    margin-left: 20px;
+    justify-content: left;    /* margin-left: 20px; */
     cursor: pointer;
     text-decoration: none;
     font-size: 2rem;
     display: flex;
+  ;
     align-items: center;
-    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Shadows Into Light', cursive;
   }
   
   .fa-mug-hot {
